@@ -8,19 +8,21 @@
 **Key insight**: Prioritize metabolic screening clinics
 
 ## LIVE DASHBOARD 
-[![Alameda Dashboard](https://github.com/ChlioP/alameda-chronic-disease-dashboard/raw/main/screenshot.png)](https://chliop.github.io/alameda-chronic-disease-dashboard/)
+(https://chliop.github.io/alameda-chronic-disease-dashboard/)
 
 ## Full Analysis Pipeline
 notebooks/
+
 ├── 01_data_cleaning.ipynb (CDC PLACES → cleaned)
 
-├── 02_eda_charts.ipynb (prevalence trends)
+├── 02_merge_data.ipynb (merged cleaned dataset + SDOH)
 
-├── 03_ttest_chisquare.ipynb (p<0.001 shift)
+├── 03_eda_chart.ipynb (exploratory data analysis)
 
-└── 04_prevalence_analysis.ipynb
+└── 04_prevalence_analysis.ipynb (t-test, chi-sq, logistic regression)
 
-[![Chronic Disease Report](https://docs.google.com/document/d/1Vr9336-NjoqfS-ux1nFi5almcxFR6dvHSV3ISHDNthE/edit?usp=sharing)
+docs/ Chronic-Diseases-Report.pdf
+
 ## Key Results Table
 | Disease | 2018 | 2022 | Change |
 |---------|------|------|--------|
