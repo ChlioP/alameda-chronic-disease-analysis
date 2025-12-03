@@ -13,9 +13,13 @@
 ## Full Analysis Pipeline
 notebooks/
 ├── 01_data_cleaning.ipynb (CDC PLACES → cleaned)
+
 ├── 02_eda_charts.ipynb (prevalence trends)
+
 ├── 03_ttest_chisquare.ipynb (p<0.001 shift)
+
 └── 04_prevalence_analysis.ipynb
+
 [![Chronic Disease Report](https://docs.google.com/document/d/1Vr9336-NjoqfS-ux1nFi5almcxFR6dvHSV3ISHDNthE/edit?usp=sharing)
 ## Key Results Table
 | Disease | 2018 | 2022 | Change |
