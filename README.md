@@ -8,7 +8,7 @@
 **Key insight**: Prioritize metabolic screening clinics
 
 ## LIVE DASHBOARD 
-(https://chliop.github.io/alameda-chronic-disease-dashboard/)
+https://chliop.github.io/alameda-chronic-disease-dashboard/
 
 ## Full Analysis Pipeline
 notebooks/
