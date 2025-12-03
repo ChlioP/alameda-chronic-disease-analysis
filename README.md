@@ -32,7 +32,7 @@ notebooks/
 
 * 03_eda_chart.ipynb (exploratory data analysis)
 
-*04_prevalence_analysis.ipynb (t-test, chi-sq, logistic regression)
+* 04_prevalence_analysis.ipynb (t-test, chi-sq, logistic regression)
 
 docs/ 
 * Chronic-Diseases-Report.pdf
